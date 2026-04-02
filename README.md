@@ -82,7 +82,7 @@ This bot helps users:
 
 ## 👨‍💻 Author
 
-Raghun
+Ragul
 Software Intern – RPA & Agentic AI Automation
 
 ---
