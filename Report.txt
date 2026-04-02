@@ -1,0 +1,60 @@
+Spending summary for your data:
+
+1. Total spent
+- Overall total: Rs 9,250
+
+2. By category
+- Food:  
+  - Swiggy: Rs 250  
+  - Zomato: Rs 4,000  
+  - Total Food: Rs 4,250  
+
+- Shopping:  
+  - Amazon: Rs 1,200  
+  - Total Shopping: Rs 1,200  
+
+- Travel:  
+  - Uber: Rs 300  
+  - Bus ticket: Rs 2,000  
+  - Total Travel: Rs 2,300  
+
+- Bills:  
+  - Electric (electrivc): Rs 1,500  
+  - Total Bills: Rs 1,500  
+
+3. Percentage by category (approx)
+- Food: 46% of total
+- Travel: 25% of total
+- Shopping: 13% of total
+- Bills: 16% of total
+
+Suggestions:
+
+1. Food (highest spending)
+- Zomato alone is very high (Rs 4,000 vs Rs 250 on Swiggy).  
+- Set a weekly eating-out/delivery limit and track it.  
+- Try cooking more at home or using offers/coupons when ordering.
+
+2. Travel
+- Rs 2,000 on a bus ticket + Rs 300 on Uber.  
+- If this is regular (like office commute), compare monthly pass or shared rides.  
+- Plan trips earlier to get cheaper tickets if it was intercity.
+
+3. Shopping
+- Rs 1,200 on Amazon is okay if it was planned and needed.  
+- Make a simple rule: any online purchase above Rs 1,000 waits 24 hours before buying.
+
+4. Bills
+- Rs 1,500 for electricity seems like a fixed/essential expense.  
+- You can lower it slowly by checking: LED lights, turning off appliances, using fan instead of AC where possible.
+
+5. Simple monthly plan (based on this pattern)
+If this 4-day pattern is typical, your monthly spending could get very high. As a rough guide:
+- Decide a monthly budget (for example, Rs 25,000 total).  
+- Allocate something like:
+  - Food (eating out + delivery): 25–30%
+  - Travel: 15–20%
+  - Shopping: 10–15%
+  - Bills and essentials: 30–40%
+
+If you want, share more days of expenses or your income, and I can suggest a clearer budget.
